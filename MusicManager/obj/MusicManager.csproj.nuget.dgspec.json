@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MusicManager\\MusicManager.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MusicManagerContextLib\\MusicManagerContextLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MusicManagerContextLib\\MusicManagerContextLib.csproj",
+        "projectName": "MusicManagerContextLib",
+        "projectPath": "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MusicManagerContextLib\\MusicManagerContextLib.csproj",
+        "packagesPath": "C:\\Users\\jakob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MusicManagerContextLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jakob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MusicManager\\MusicManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MusicManager\\MusicManager.csproj",
+        "projectName": "MusicManager",
+        "projectPath": "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MusicManager\\MusicManager.csproj",
+        "packagesPath": "C:\\Users\\jakob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MusicManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jakob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5-windows",
+            "projectReferences": {
+              "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MusicManagerContextLib\\MusicManagerContextLib.csproj": {
+                "projectPath": "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MusicManagerContextLib\\MusicManagerContextLib.csproj"
+              },
+              "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MVVM.Tools\\MVVM.Tools.csproj": {
+                "projectPath": "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MVVM.Tools\\MVVM.Tools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5-windows",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MVVM.Tools\\MVVM.Tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MVVM.Tools\\MVVM.Tools.csproj",
+        "projectName": "MVVM.Tools",
+        "projectPath": "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MVVM.Tools\\MVVM.Tools.csproj",
+        "packagesPath": "C:\\Users\\jakob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jakob\\OneDrive\\_Schule\\_Porgrammieren\\VisualStudio\\C#\\MusicManager\\MVVM.Tools\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jakob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

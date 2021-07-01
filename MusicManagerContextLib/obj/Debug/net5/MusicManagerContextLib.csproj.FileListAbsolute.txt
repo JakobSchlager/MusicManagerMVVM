@@ -1,0 +1,17 @@
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\bin\Debug\net5\musicDbData.csv
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\bin\Debug\net5\MusicManagerContextLib.deps.json
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\bin\Debug\net5\MusicManagerContextLib.runtimeconfig.json
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\bin\Debug\net5\MusicManagerContextLib.runtimeconfig.dev.json
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\bin\Debug\net5\MusicManagerContextLib.dll
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\bin\Debug\net5\ref\MusicManagerContextLib.dll
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\bin\Debug\net5\MusicManagerContextLib.pdb
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\obj\Debug\net5\MusicManagerContextLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\obj\Debug\net5\MusicManagerContextLib.AssemblyInfoInputs.cache
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\obj\Debug\net5\MusicManagerContextLib.AssemblyInfo.cs
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\obj\Debug\net5\MusicManagerContextLib.csproj.CoreCompileInputs.cache
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\obj\Debug\net5\MusicManagerContextLib.dll
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\obj\Debug\net5\ref\MusicManagerContextLib.dll
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\obj\Debug\net5\MusicManagerContextLib.pdb
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\obj\Debug\net5\MusicManagerContextLib.genruntimeconfig.cache
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\bin\Debug\net5\MusicManager.mdf
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\MusicManagerContextLib\obj\Debug\net5\MusicManagerContextLib.csprojAssemblyReference.cache

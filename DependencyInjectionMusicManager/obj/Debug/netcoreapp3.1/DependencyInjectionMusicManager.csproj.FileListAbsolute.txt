@@ -1,0 +1,5 @@
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\DependencyInjectionMusicManager\obj\Debug\netcoreapp3.1\DependencyInjectionMusicManager.csprojAssemblyReference.cache
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\DependencyInjectionMusicManager\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\DependencyInjectionMusicManager\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\DependencyInjectionMusicManager\obj\Debug\netcoreapp3.1\DependencyInjectionMusicManager_MarkupCompile.cache
+C:\Users\jakob\OneDrive\_Schule\_Porgrammieren\VisualStudio\C#\MusicManager\DependencyInjectionMusicManager\obj\Debug\netcoreapp3.1\DependencyInjectionMusicManager_MarkupCompile.lref
